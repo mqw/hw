@@ -1,0 +1,5 @@
+-r ./app/requirements.txt
+pytest
+docker
+requests
+pytest-ordering
